@@ -1,5 +1,6 @@
 Welcome to the Homepage for Online Bookstore System!!
 
+
 Our online booking portal, designed to make scheduling your appointments quick, seamless, and entirely hassle-free. 
 We understand that your time is valuable, which is why our digital reservation platform is available 24/7, allowing you to secure your preferred date and time in just a few clicks. 
 Simply browse our available services, select your provider, and receive instant confirmation directly to your inbox. Let us help you streamline your day—book your next session with us today.
@@ -10,4 +11,3 @@ C
 Java
 Python
 JavaScript
-
